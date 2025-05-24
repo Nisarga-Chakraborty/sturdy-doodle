@@ -481,7 +481,7 @@ backgroundColor.addActionListener(e ->
         //showing about
         aboutItem.addActionListener(e->
         {
-            JOptionPane.showMessageDialog(this," Notepad is a simple text editor for Windows, included in most versions of Microsoft Windows. It is a basic text-editing program that enables you to create and edit plain text files. \n\n This is a simple implementation of Notepad using Java. \n\n Created by Anonymous\n For further information please contact +91 7363868910");
+            JOptionPane.showMessageDialog(this," Notepad is a simple text editor for Windows, included in most versions of Microsoft Windows. It is a basic text-editing program that enables you to create and edit plain text files. \n\n This is a simple implementation of Notepad using Java. ");
         });
         //showing feedback
         feedbackItem.addActionListener(e->
