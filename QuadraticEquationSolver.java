@@ -4,8 +4,7 @@ public class QuadraticEquationSolver
 {
     public static void main(String[] args) 
     {
-        System.out.println("  Hello   BUBKA   AND   CHOTKA  ");
-        System.out.println("i am trying to solve any quadratic equation that u enter so please cooperate");
+        System.out.println("QUADRATIC EQUATION SOLVER");
         double root1, root2;
         Scanner ab = new Scanner(System.in);
         System.out.println("Enter the coefficient of x^2 in the quadratic equation:");
